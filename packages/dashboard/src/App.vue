@@ -1,5 +1,5 @@
 <template>
-  <h1>Hello App!</h1>
+  <span class="badge badge-success">container | Vue.js</span>
   <p>
     <!-- use the router-link component for navigation. -->
     <!-- specify the link by passing the `to` prop. -->

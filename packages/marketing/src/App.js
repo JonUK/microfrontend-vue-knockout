@@ -11,6 +11,7 @@ const generateClassName = createGenerateClassName({
 
 export default ({ history }) => {
   return <div>
+    <span className="badge badge-primary">marketing | React</span>
     <StylesProvider generateClassName={generateClassName}>
       <Router history={history}>
         <Switch>
